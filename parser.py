@@ -70,6 +70,8 @@ for category_counter in range(len(ranking)):
 
 output_string = output_string[:-1] + "\n" # Remove the last ';' (.csv convention)
 
+# HAHAAHAHAAH
+
 # Create .csv-formatted game list, loop over every single game
 loop_counter = 0
 while loop_counter < len(ranking[-1][1]):
